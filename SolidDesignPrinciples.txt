@@ -1,0 +1,7 @@
+Solid Design Principles:
+------------------------
+1. Single Responsibility Principles
+   The Single Responsibility Principle (SRP) in software design means that a class, module, or function should have only one specific responsibility or reason to change. This principle, part of the SOLID principles, promotes code that is more maintainable, testable, and reusable because it reduces the complexity and potential for unintended side effects when changes are made.
+
+2. Open-Closed Principle
+   The Open-Closed Principle (OCP) is a core principle of object-oriented design, stating that software entities like classes, modules, or functions should be open for extension but closed for modification. In essence, this means you should be able to add new features or behaviors without altering the existing code. 

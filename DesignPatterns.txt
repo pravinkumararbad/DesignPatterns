@@ -1,0 +1,40 @@
+What are design patterns?
+-------------------------
+Design patterns are common architectural approaches which designers have observed through out the years and desided to cataloge them and give a name so those could commonly used and discussed.
+These came into in to popularity when a book called Design Patterns came in being by 4 authors most commonly known as Gang of Four in 1994.
+
+These patterns are now very much universaly relevant and some of these patterns even became internalized in the programming languages itself.
+
+There are broadly three types of design patterns:
+-------------------------------------------------
+1. Creational
+   - Builder
+   - Factories
+   	  - Abstract Factory
+   	  - Factory Method
+   - Prototype
+   - Singleton
+
+2. Structural
+   - Adapter
+   - Bridge
+   - Composite
+   - Decorator
+   - Facade
+   - Flyweight
+   - Proxy
+
+3. Behavioral
+   - Chain of Responsibility
+   - Command
+   - Interpreter
+   - Iterator
+   - Mediator
+   - Memento
+   - Observer
+   - State
+   - Strategy
+   - Template Method
+   - Visitor
+
+Let's now follow all the design patterns which are there in the original design pattern book from 1994.
