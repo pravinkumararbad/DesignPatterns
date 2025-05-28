@@ -4,4 +4,13 @@ Solid Design Principles:
    The Single Responsibility Principle (SRP) in software design means that a class, module, or function should have only one specific responsibility or reason to change. This principle, part of the SOLID principles, promotes code that is more maintainable, testable, and reusable because it reduces the complexity and potential for unintended side effects when changes are made.
 
 2. Open-Closed Principle
-   The Open-Closed Principle (OCP) is a core principle of object-oriented design, stating that software entities like classes, modules, or functions should be open for extension but closed for modification. In essence, this means you should be able to add new features or behaviors without altering the existing code. 
+   The Open-Closed Principle (OCP) is a core principle of object-oriented design, stating that software entities like classes, modules, or functions should be open for extension but closed for modification. In essence, this means you should be able to add new features or behaviors without altering the existing code.
+   
+3. Liskov Substitution Principle
+   The Liskov Substitution Principle (LSP) in object-oriented programming states that functions using a superclass should be able to also work with subclasses without modification, ensuring the program's correctness. In simpler terms, a subclass should be substitutable for its parent class without altering the expected behavior of the code.
+   
+4. Interface Segregation Principle
+   The Interface Segregation Principle (ISP), a core tenet of object-oriented design, states that clients should not be forced to depend on interfaces they do not use. In essence, it advocates for breaking down large, general interfaces into smaller, more specific ones to ensure that classes only implement the methods they need. This principle, part of the SOLID principles, promotes flexibility and reduces the risk of unintended side effects when interfaces change.
+
+5. Dependency Inversion Principle
+   The Dependency Inversion Principle (DIP), a key part of the SOLID principles, states that high-level modules should not depend on low-level modules; both should depend on abstractions. Essentially, classes should depend on interfaces or abstract classes rather than concrete classes, promoting loose coupling and making code more maintainable and testable.
